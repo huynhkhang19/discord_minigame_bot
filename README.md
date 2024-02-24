@@ -14,12 +14,12 @@ Hãy xem thử [TẠI ĐÂY!](https://github.com/huynhkhang19/discord_minigame_b
 > Tệp `config.js` Phải Được Cấu Hình Trước
 > File `.env` Thay Đổi `BOT_TOKEN=<TOKEN CỦA BẠN>` Và `BOT_ID=<CLIENT ID BOT CỦA BẠN>`
 
-Các Lệnh Setup Và Khởi Động Bot
+Lệnh setup bot
 ```sh
 npm install
 npm run deploy
 ```
-Start the bot
+Khởi động bot
 ```sh
 node index.js
 ```
