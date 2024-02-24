@@ -2,7 +2,7 @@
 
 ## ✨Latest Updates
 
-Go check it out [HERE!](https://github.com/huynhkhang19/discord_minigame_bot/)
+Hãy xem thử [TẠI ĐÂY!](https://github.com/huynhkhang19/discord_minigame_bot/)
 
 ## 🚧 | Prerequisites
 
@@ -11,9 +11,10 @@ Go check it out [HERE!](https://github.com/huynhkhang19/discord_minigame_bot/)
 ## 📝 | Tutorial
 
 ### 💪🏻 Instruct
-> The `config.js` file should be configured first.
+> Tệp `config.js` Phải Được Cấu Hình Trước
+> File `.env` Thay Đổi `BOT_TOKEN=<TOKEN CỦA BẠN>` Và `BOT_ID=<CLIENT ID BOT CỦA BẠN>`
 
-Install all dependencies and deploy Slash Commands
+Các Lệnh Setup Và Khởi Động Bot
 ```sh
 npm install
 npm run deploy
