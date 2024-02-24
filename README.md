@@ -10,7 +10,7 @@ Go check it out [HERE!](https://github.com/huynhkhang19/discord_minigame_bot/)
 
 ## 📝 | Tutorial
 
-### 💪🏻 Non-Docker
+### 💪🏻 Instruct
 > The `config.js` file should be configured first.
 
 Install all dependencies and deploy Slash Commands
